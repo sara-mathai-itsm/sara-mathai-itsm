@@ -1,6 +1,6 @@
 Hi, I'm Sara Mathai
 
-**IT Service Management | Change & Problem Management | Service Analytics | ITIL 4**
+# **IT Service Management & Change Leader | Risk & Service Analytics | ITIL 4 | Data-Driven Decision Making**
 
 IT Service Management professional with 5+ years of experience driving change governance, incident resolution, and service stability in large enterprise environments. Proven expertise in CAB coordination, root cause analysis (RCA), KPI tracking, and risk management to support reliable and efficient IT operations.
 
